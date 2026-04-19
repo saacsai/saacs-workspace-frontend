@@ -3,12 +3,7 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "env": {
-    "VITE_API_URL": "@vite-api-url"
-  },
-  "env": {
-    "VITE_API_URL": {
-      "required": true
-    }
+    "VITE_API_URL": "https://mcp.saacs.com.br"
   },
   "rewrites": [
     {
